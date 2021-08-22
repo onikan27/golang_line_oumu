@@ -1,1 +1,3 @@
-# golang_line_oumu
+# 【golang+LINE】
+
+おうむ返しするLINEBOTです
